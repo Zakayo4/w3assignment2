@@ -1,10 +1,28 @@
-.sec1 {
-  background-color: rgb(183, 0, 255);
-  color: yellow;
+body {
+  background-color: rgb(212, 209, 212);
 }
-#sec3 {
-  background-color: blue;
+
+.name {
+  background-color: black;
+  font-size: xx-large;
 }
-#sec4 {
+.name {
+  color: white;
+}
+
+.hobbies {
+  color: rgb(78, 9, 9);
+}
+p:first-child {
   color: green;
+}
+
+a:hover {
+  color: black;
+}
+.contactlink {
+  color: rgb(0, 0, 252);
+}
+.form {
+  background-color: rgb(107, 92, 91);
 }
