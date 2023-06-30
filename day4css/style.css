@@ -1,12 +1,28 @@
-.box {
-  width: 300px;
-  height: 200px;
-  padding: 20px;
-  border: 2px solid blue;
-  margin: 40px;
-  background-color: red;
+body {
+  background-color: rgb(212, 209, 212);
 }
 
-.box:hover {
+.name {
   background-color: black;
+  font-size: xx-large;
+}
+.name {
+  color: white;
+}
+
+.hobbies {
+  color: rgb(194, 26, 26);
+}
+p:first-child {
+  color: green;
+}
+
+a:hover {
+  color: black;
+}
+.contactlink {
+  color: rgb(0, 0, 252);
+}
+.form {
+  background-color: rgb(107, 92, 91);
 }
